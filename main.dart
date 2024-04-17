@@ -8,5 +8,5 @@ void main() {
             backgroundColor: Colors.brown[700],
             centerTitle: true,
           ),
-          body: const Text('Zip your Coffee Now'))));
+          body: const Text('Drink your Coffee Now'))));
 }
